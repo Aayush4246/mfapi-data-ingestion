@@ -1,0 +1,8 @@
+Data Quality Summary - Day 1
+----------------------------
+Total Funds: 5
+Total NAV Records: 8
+Missing AMFI Codes: 0
+Duplicate Records: 0
+Anomalies Found: None
+Validation Status: PASSED
