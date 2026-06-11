@@ -1,0 +1,5 @@
+dataset,rows,columns,missing_values,duplicates
+100027_nav,531,2,0,0
+118834_nav,3298,2,0,0
+fund_master,5,5,0,0
+nav_history,6,3,0,0

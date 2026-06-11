@@ -1,9 +1,17 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-sqlalchemy
-requests
-scipy
-jupyter
+# Core data processing
+pandas==2.2.2
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.22.0
+
+# Machine learning and forecasting
+scikit-learn==1.5.0
+
+# Dashboard and web app
+streamlit==1.33.0
+
+# Utility and file handling
+pathlib==1.0.1
